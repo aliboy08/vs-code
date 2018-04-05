@@ -1,0 +1,16 @@
+{
+	"editor.tabSize": 3,
+	"workbench.colorTheme": "One Dark+ (Sublime)",
+	"editor.fontSize": 15,
+	"editor.lineHeight": 21,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"editor.wordWrap": "on",
+	"eslint.validate": ["javascript", "javascriptreact"],
+	"prettier.tabWidth": 3,
+	"prettier.useTabs": true
+}
